@@ -76,7 +76,7 @@ const Home = ({ prediction, setPrediction })=>{
 
         <div className="form-group">
           <label className="form-label">AWA</label>
-          <input type="number" className="form-control" required id="AWA"/>
+          <input type="number" step="any" className="form-control" required id="AWA"/>
         </div>
 
         <div className="form-group">

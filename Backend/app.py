@@ -48,7 +48,7 @@ def predict():
         ans = loaded_model.predict(normalized_new_data_point)
         rank = ans[0]
         print(rank)
-        if rank==1:
+        if rank==3:
             universities = ["Massachusetts Institute of Technology (MIT)", "Stanford University", "University of California--Berkeley", "Carnegie Mellon University", "University of Illinois Urbana Champaign", "University of Washington", "Cornell University", "Georgia Institute of Technology", "Princeton University", "University of Texas Austin", "University of Michigan--Ann Arbor", "University of California--San Diego", "University of Wisconsin--Madison", "California Institute of Technology", "Columbia University", "University of California Davis", "Harvard University", "University of Maryland", "University of Pennsylvania", "Duke University", "Purdue University", "Yale University"]
         elif rank == 2:
             universities = ["Johns Hopkins University", "Ohio State University", "University of Illinois at Springfield", "University of California--Santa Barbara", "University of Chicago", "University of Massachusetts Amherst", "University of North Carolina--Chapel Hill", "California State University Los Angeles", "University of Southern California", "University of Virginia", "Brown University", "Northwestern University", "Rice University", "University of California--Irvine", "New York University", "Northeastern University Boston", "Pennsylvania State University--University Park", "University of Colorado--Boulder", "University of Minnesota--Twin Cities", "Virginia Tech University"]
