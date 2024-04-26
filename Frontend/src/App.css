@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.App{
+  background-color: #b1c9b6;
+  margin-bottom: 0;
+}
+
+.Home {
+  margin-top: 10px;
+  margin-left: 420px;
+  margin-right: 420px;
+  margin-bottom: 0;
+  padding: 30px 40px;
+  background-color:beige;
+  color: #333;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.btn-primary {
+  width: 100%;
+}
+

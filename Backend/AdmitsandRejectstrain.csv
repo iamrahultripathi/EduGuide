@@ -1,0 +1,184 @@
+Serial,GRE Total,Verbal ,Quants,AWA,TOEFL,Gpa,Undergrad ,"Tier (1,2,3)",Work experience,publications,postgrad uni,GroupNew,Group,status
+1,322,165,157,4,106,9.32,JU ,3,2,3,Rice University,A,2,Admit
+2,322,165,157,4,106,9.32,JU ,3,2,3,Arizona State University,B,3,Admit
+3,322,165,157,4,106,9.32,JU ,3,2,3,Texas A&M University,B,3,Admit
+4,322,165,157,4,106,9.32,JU ,3,2,3,University of California Davis,A,1,Admit
+5,322,165,157,4,106,9.32,JU ,3,2,3,University of Florida,B,3,Admit
+6,322,165,157,4,106,9.32,JU ,3,2,3,University of Maryland,A,1,Admit
+7,322,165,157,4,106,9.32,JU ,3,2,3,Rice University,A,2,Admit
+8,325,162,163,4.5,117,8.7,NIT Trichy,3,0,2,Ohio State University,A,2,Admit
+9,325,162,163,4.5,117,8.7,NIT Trichy,3,0,2,Carnegie Mellon University,A,1,Admit
+10,325,162,163,4.5,117,8.7,NIT Trichy,3,0,2,University of Maryland,A,1,Admit
+11,325,162,163,4.5,117,8.7,NIT Trichy,3,0,2,Purdue University,A,1,Admit
+12,325,162,163,4.5,117,8.7,NIT Trichy,3,0,2,Duke University,A,1,Admit
+13,320,160,160,4.5,117,9,University of Calcutta,2,0,1,Rensselaer Polytechnic Institute,B,3,Admit
+14,320,160,160,4.5,117,9,University of Calcutta,2,0,1,Yale University,A,1,Admit
+15,320,160,160,4.5,117,9,University of Calcutta,2,0,1,University of California Davis,A,1,Admit
+16,320,160,160,4.5,117,9,University of Calcutta,2,0,1,Purdue University,A,1,Admit
+17,320,160,160,4.5,117,9,University of Calcutta,2,0,1,Princeton University,A,1,Admit
+18,320,160,160,4.5,117,9,University of Calcutta,2,0,1,University of Wisconsin Milwaukee,C,6,Admit
+19,320,160,160,4.5,117,9,University of Calcutta,2,0,1,Yale University,A,1,Admit
+20,327,163,164,4.5,118,9.52,JU,3,1,0,Carnegie Mellon University,A,1,Admit
+21,327,163,164,4.5,118,9.52,JU,3,1,0,University of Texas Austin,A,1,Admit
+22,327,163,164,4.5,118,9.52,JU,3,1,0,Johns Hopkins University,A,2,Reject
+23,327,163,164,4.5,118,9.52,JU,3,1,0,University of Illinois Urbana  Champaign,A,1,Reject
+24,327,163,164,4.5,118,9.52,JU,3,1,0,Stanford University,A,1,Admit
+25,312,156,156,3.5,107,8.54,St. Xavier’s College,1,1,3,Carnegie Mellon University,A,1,Reject
+26,316,153,163,3.5,109,8.45,NIT Durgapur,2,1,2,Michigan State University,B,3,Admit 
+27,316,153,163,3.5,109,8.45,NIT Durgapur,2,1,2,Ohio State University,A,2,Admit 
+28,316,153,163,3.5,109,8.45,NIT Durgapur,2,1,2,University of Massachusetts Amherst,A,2,Reject
+29,316,153,163,3.5,109,8.45,NIT Durgapur,2,1,2,Michigan State University,B,3,Admit
+30,325,160,165,4.5,116,8.97,JU,3,0,2,Rensselaer Polytechnic Institute,B,3,Admit
+31,325,160,165,4.5,116,8.97,JU,3,0,2,University of North Carolina--Charlotte,C,5,Reject
+32,325,160,165,4.5,116,8.97,JU,3,0,2,Iowa State University,B,3,Admit
+33,325,160,165,4.5,116,8.97,JU,3,0,2,Rensselaer Polytechnic Institute,B,3,Admit
+34,323,159,164,4,105,7.96,JU,3,0,2,Utah State University,C,6,Admit
+35,323,159,164,4,105,7.96,JU,3,0,2,University of Iowa,B,4,Reject
+36,323,159,164,4,105,7.96,JU,3,0,2,Stony Brook University,B,3,Admit
+37,323,159,164,4,105,7.96,JU,3,0,2,University of Florida,B,3,Admit
+38,323,159,164,4,105,7.96,JU,3,0,2,New York University,A,2,Admit
+39,315,152,163,4,110,8.78,G H Patel College Of Engineering & Technology,1,0,0,Northwestern University,A,2,Reject
+40,325,157,168,3,115,8.5,Gitam University,1,0,0,New York University,A,2,Admit
+41,310,152,158,4,103,8.2,Alliance University,1,0,0,University of Massachusetts Amherst,A,2,Reject
+42,320,156,164,4,116,5.6,Savitribai Phule Pune University,1,0,0,Texas A&M University,B,3,Reject
+43,312,145,167,3.5,100,7.6,Sreenidhi Institute of Science and Technology,1,1,0,Virginia Tech University,A,2,Reject
+44,302,146,156,4,79,6.22,"Sinhgad Institute Of Technology And Science, Narhe",1,0,0,Wright State University,C,9,Admit
+45,310,144,166,3,92,8.59,"Shri guru govind singh college of engineering, nanded",1,0,0,Indiana University Bloomington,B,3,Reject
+46,298,138,160,3.5,94,7.9,vignan's lara institute of science and techonology,1,1,0,University of North Carolina--Charlotte,C,5,Reject
+47,327,157,170,4,113,9.31,Vellore Institute of Technology,2,0,0,University of California--San Diego,A,1,Admit
+48,283,133,150,2.5,94,7.88,VR Siddhartha engineering college,1,0,0,University of California--Merced,C,6,Reject
+49,324,155,169,4,109,8.26,IIT Kharagpur,3,1,0,University of North Carolina--Charlotte,C,5,Admit
+50,316,151,165,4,110,8.02,Vivekanand Education Society's Institute Of Technology,1,0,0,New York University,A,2,Admit
+51,319,155,164,4,113,5.8,Goa engineering college,1,1,0,University at Buffalo--SUNY,B,4,Admit
+52,300,140,160,3,90,7.74,Charotar University Of Science And Technology,1,0,0,Illinois Institute of Technology,C,5,Admit
+53,311,151,160,3,100,8.99,Ramrao Adik Institute of Technology,1,0,0,University of Illinois--Chicago,B,3,Admit
+54,311,152,159,4.5,97,7.1,Dayananda Sagar College of Engineering,1,0,0,"Rutgers, The State University of New Jersey--Newark",B,3,Admit
+55,313,152,161,3.5,97,8.06,Vasavi College of Engineering,1,0,0,University of Maryland Baltimore County,B,4,Admit
+56,299,138,161,3,90,6.49,Amrita University Bengaluru Campus,1,0,0,California State University Fullerton,C,7,Admit
+57,327,157,170,4,104,8.82,Chaitanya Bharathi Institute of Technology,1,1,0,Stony Brook University,B,3,Admit
+58,308,151,157,3,95,6.75,RMD Sinhgad,1,0,0,University of Maryland Baltimore County,B,4,Admit
+59,327,160,167,4.5,113,9.25,M S Ramaiah university of Applied Sciences,1,0,0,University of Maryland,A,1,Reject
+60,300,145,155,3,96,8.33,Sri Manakula Vinayagar Engineering college,1,0,0,University of Texas--Dallas,B,4,Reject
+61,296,137,159,3,79,7.4,NIT Andhra Pradesh,2,0,0,University of North Texas,C,7,Admit
+62,318,166,152,4,102,9.75,NMIMS Mukesh Patel School of Technology Management and Engineering,1,0,0,University of Texas--Dallas,B,4,Admit
+63,313,144,169,3,101,7.8,L. D. College Of Engineering,1,0,0,University of Texas--Dallas,B,4,Reject
+64,310,149,161,3.5,95,7.46,"Fr. C. Rodrigues Institute Of Technology, Vashi",1,1,0,University of Southern California,A,2,Admit
+65,321,155,166,3.5,112,8.59,SRM University,1,1,0,University of California--San Diego,A,1,Reject
+66,328,159,169,4,115,9.15,"Amity University, Noida",1,0,0,University of Wisconsin--Madison,A,1,Reject
+67,322,157,165,4,114,6.9,Manipal Institute of Technology,2,0,0,Arizona State University,B,3,Admit
+68,316,146,170,2.5,98,8.2,K. J. Somaiya College of Engineering,1,0,0,"Rutgers, The State University of New Jersey--Newark",B,3,Admit
+69,323,158,165,4.5,114,7.92,International Institute of Information Technology (IIIT),2,0,3,Brown University,A,2,Admit
+70,326,158,168,4.5,114,9.08,JU ,3,1,0,Rensselaer Polytechnic Institute,B,3,Admit
+71,326,158,168,4.5,114,9.08,JU ,3,1,0,Iowa State University,B,3,Reject
+72,326,158,168,4.5,114,9.08,JU,3,1,0,Yale University,A,1,Reject
+73,326,158,168,4.5,114,9.08,JU ,3,1,0,Georgia Institute of Technology,A,1,Admit
+74,310,152,158,3.5,98,8.5,NMAM Inst of Tech ,1,1,0,University of Maryland Baltimore County,B,4,Reject
+75,310,152,158,3.5,98,8.5,NMAM Inst of Tech ,1,1,0,Arizona State University,B,3,Reject
+76,310,152,158,3.5,98,8.5,NMAM Inst of Tech ,1,1,0,University of Texas--Arlington,C,5,Admit
+77,310,152,158,3.5,98,8.5,NMAM Inst of Tech ,1,1,0,New York University,A,2,Admit
+78,310,152,158,3.5,98,8.5,NMAM Inst of Tech ,1,1,0,University at Buffalo--SUNY,B,4,Admit
+79,310,152,158,3.5,98,8.5,NMAM Inst of Tech ,1,1,0,North Carolina State University,B,3,Admit
+80,314,158,156,3.5,104,9.56,JU,3,0,3,University of Maryland Baltimore County,B,4,Admit
+81,323,165,158,4,107,8.56,JU,3,3,2,Washington University in St. Louis,B,3,Admit
+82,323,165,158,4,107,8.56,JU,3,3,5,Michigan Technological University,C,6,Reject
+83,300,144,156,3.5,79,7.04,Rajiv Gandhi university of Knowledge Technologies,1,1,0,University of Pennsylvania,A,1,Admit
+84,300,144,156,3.5,79,7.04,Rajiv Gandhi university of Knowledge Technologies,1,1,0,Boston University,B,3,Admit
+85,300,144,156,3.5,79,7.04,Rajiv Gandhi university of Knowledge Technologies,1,1,0,Northeastern University Boston,A,2,Admit
+86,334,164,170,5,114,8.6,NIT CS,3,2,0,Georgia Institute of Technology,A,1,Reject
+87,324,164,170,5,114,8.6,NIT CS,3,2,0,Texas A&M University,B,3,Reject
+88,334,164,170,5,114,8.6,NIT CS,3,2,0,University of Colorado--Boulder,A,2,Reject
+89,334,164,170,5,114,8.6,NIT CS,3,2,0,University of California--Irvine,A,2,Reject
+90,299,149,150,3.5,91,5.7,Pune University,2,2,1,California State University Los Angeles,A,2,Admit
+91,299,149,150,3.5,91,5.7,Pune University,2,2,1,University of Missouri,C,6,Admit
+92,299,149,150,3,97,8,Vishveshvaraya Technological University,1,1,0,University of Missouri,C,6,Admit
+93,323,157,166,4,79,6.45,SRM university,1,2,0,University of Texas--Dallas,B,4,Admit
+94,323,157,166,4,79,6.45,SRM university,1,2,0,University of Illinois at Springfield,A,2,Admit
+95,321,152,169,2.5,110,6.82,GITAM University,2,1,3,University of Texas--Dallas,B,4,Admit
+96,296,138,158,3.5,102,7.94,"Nirma University, Ahmedabad",1,1,0,Northeastern University Boston,A,2,Admit
+97,296,138,158,3.5,102,7.94,"Nirma University, Ahmedabad",1,1,0,"Pace University (New York, NY)",C,10,Admit
+98,296,138,158,3.5,102,7.94,"Nirma University, Ahmedabad",1,1,0,University of Texas--Arlington,C,5,Admit
+99,328,159,169,4,94,7.75,Lovely Professional University,1,0,0,Arizona State University,B,3,Admit
+100,328,159,169,4,94,7.75,Lovely Professional University,1,0,0,Illinois Institute of Technology,C,5,Admit
+101,328,159,169,4,94,7.75,Lovely Professional University,1,0,0,University of San Francisco,C,6,Reject
+102,304,157,147,3.5,102,7.49,Vignana Jyothi Institute Of Engg. And Technology,1,1,0,Northeastern University Boston,A,2,Admit
+103,304,157,147,3.5,102,7.49,Vignana Jyothi Institute Of Engg. And Technology,1,1,0,George Washington University,B,4,Admit
+104,304,157,147,3.5,102,7.49,Vignana Jyothi Institute Of Engg. And Technology,1,1,0,"Florida Institute of Technology (Melbourne, FL)",C,9,Reject
+105,300,144,156,3.5,79,7.04,Rajiv Gandhi university of Knowledge Technologies,1,1,0,George Washington University,B,4,Reject
+106,300,144,156,3.5,79,7.04,Rajiv Gandhi university of Knowledge Technologies,1,1,0,Cleveland State University (OH),C,9,Admit
+107,288,134,154,3,94,6.2,"YCCE, Nagpur",1,9,0,Arizona State University,B,3,Reject
+108,324,159,165,3,79,6.67,SRM University,1,3,0,University of Massachusetts--Boston,C,6,Reject
+109,327,158,169,3,94,6.08,Jawaharlal Nehru Technological University,1,0,0,Northeastern University Boston,A,2,Reject
+110,300,150,150,3,86,7.8,Vidyalankar Institute Of Technology,1,5,0,stevens institute of technology,C,5,Reject
+111,308,147,161,3,102,8.2,College of Engineering RTU Kota,1,0,0,Northeastern University Boston,A,2,Reject
+112,316,158,158,3.5,85,9.3,Netaji Subhash Engineering College,1,2,0,University of Texas Austin,A,1,Reject
+113,315,155,160,3.5,80,8,"Jawaharlal Nehru technological university, Kakinada",1,1,0,Purdue University,A,1,Reject
+114,324,164,170,5,114,8.6,NIT ,3,2,0,Arizona State University,B,3,Admit
+115,324,164,170,5,114,8.6,NIT ,3,2,0,Stony Brook University,B,3,Admit
+116,334,164,170,5,114,8.6,NIT ,3,2,0,University of Massachusetts Amherst,A,2,Reject
+117,325,158,167,4,105,9.97,Vellore Institute of Technology,2,0,0,University of Michigan--Ann Arbor,A,1,Admit
+118,302,147,155,4,101,8.11,R.M.K. Engineering College,1,1,0,"Illinios Institute of Technology, Chicago",C,6,Admit
+119,309,142,167,3.5,100,8.63,College Of Engineering Pune,2,1,0,"University of Michigan, Dearborn",A,1,Admit
+120,300,144,156,3,110,7.99,Vishwakarma Gov. Engineering college,1,0,0,University of Waterloo,C,6,Reject
+121,320,156,164,4,110,7.25,Ramrao Adik Institute of Technology,1,1,0,Carnegie Mellon University,A,1,Reject
+122,319,155,164,4,114,7,NIT Surathkal,3,0,0,North Carolina State University,B,3,Admit
+123,306,142,164,3,93,7.34,"kakatiya institute of technology and sciences, warangal",1,0,0,University of Texas--Dallas,B,4,Reject
+124,328,160,168,4,109,8.81,NIT Trichy,3,2,0,University of Illinois Urbana Champaign,A,1,Reject
+125,312,153,159,3.5,104,8.3,University of Petroleum and Energy Studies,2,0,0,"University of Texas, Austin",A,1,Reject
+126,332,164,168,3.5,113,9.11,R.V. College of Engineering,1,0,0,"University of California, Santa Barbara",A,2,Admit
+127,303,143,160,4.5,93,7.22,"AP Shah Institute Of Technology, Thane",1,1,0,Kansas State University,C,6,Reject
+128,315,149,166,3.5,109,6.7,"JSS Academy of Technical Education, Noida",1,0,0,University of Arizona,B,3,Reject
+129,320,153,167,4,107,8.69,NIT Surathkal,3,0,0,"University of Maryland, College Park",B,4,Reject
+130,295,142,153,3,95,6.23,Maharashtra Institute of Technology,1,0,0,University of Colorado--Denver,C,9,Admit
+131,301,140,161,2.5,79,6.1,Sardar Vallabhbhai Patel Institute of Technology,2,0,0,"University of Texas, Arlington",C,5,Admit
+132,305,147,158,3.5,97,7.3,Visvesvaraya Technological University,1,2,0,New York University,A,2,Reject
+133,304,144,160,3,91,8.4,SRM University,1,0,0,University of Texas--Dallas,B,4,Admit
+134,320,159,161,4.5,112,9.23,"Sri Jayachamarajendra College Of Engineering, Mysore",1,0,0,North Carolina State University,B,3,Reject
+135,316,164,152,3,98,6.3,K. J. Somaiya College of Engineering,1,0,0,"University of Illinois, Chicago",C,5,Admit
+136,318,156,162,3,105,6.5,"JNTU, Hyderabad",1,0,0,University of Oklahoma,C,6,Reject
+137,324,160,164,4,103,7.63,Pondicherry Engineering College,2,0,0,San Jose State University,C,10,Admit
+138,306,142,164,3,93,7.34,"kakatiya institute of technology and sciences, warangal",1,0,0,University of South Carolina,C,6,Reject
+139,325,155,170,3.5,111,8.73,"Sardar Patel College Of Engineering, (SPCE), Andheri",2,1,0,Pennsylvania State University,A,1,Admit
+140,331,162,169,4,106,8.57,IIT Roorkee,3,1,0,University of Texas Austin,A,1,Admit
+141,293,145,148,3,80,7.5,SRM University,1,0,1,"Western Michigan University (Kalamazoo, MI)",C,10,Admit
+142,322,158,164,2,104,7.67,DJ Sanghvi College of Engineering,2,0,0,"University of California, Irvine",A,2,Admit
+143,302,141,161,3,97,9.11,KIIT University,3,2,0,University of Utah,B,3,Admit
+144,304,154,150,3,90,6.5,Anna University,2,3,0,Northeastern University,A,2,Admit
+145,306,149,157,3.5,80,8.1,SJB Institute of Technology,1,2,1,University of Alberta,C,7,Admit
+146,302,148,154,3,110,7.95,University Institute of Engineering and Technology,1,2,0,Ohio University,C,8,Admit
+147,295,141,154,3,86,7.5,Dr.dy patil college of engineering and innovation,1,1,0,California State University Fullerton,C,7,Admit
+148,307,147,160,3.5,94,8.01,"P.E.S. Institute of Technology, Bangalore",2,0,0,Arizona State University,B,3,Admit
+149,310,152,158,4,108,6.8,MH Saboo Siddik College Of Engineering,1,0,0,University of Alabama--Huntsville,C,8,Admit
+150,302,140,162,3,79,6.34,KLS Gogte Institute Of Technology,1,0,0,Clemson University,B,4,Reject
+151,315,150,165,3.5,94,8.9,MVSR Engineering College,1,3,0,Case Western Reserve University,B,4,Admit
+152,301,145,156,3,83,8.4,NIT Surat,3,0,0,University of Southern California,A,2,Admit
+153,313,152,161,3,94,8.54,NIT Surat,3,0,0,University of Southern California,A,2,Admit
+154,316,152,164,3.5,106,8,"JSS Academy of Technical Education, Noida",2,0,0,Stony Brook University,B,3,Admit
+155,314,155,159,3.5,110,7.7,"Dr. Babasaheb Ambedkar Technological University, Lonere",1,1,0,Oregon State University,B,4,Admit
+156,318,153,165,3.5,101,8.91,Jamia Millia Islamia,3,0,0,University of Texas--Dallas,B,4,Admit
+157,321,156,165,4,115,8.12,SRM Easwari,2,0,0,Northeastern University Boston,A,2,Admit
+158,310,149,161,3.5,95,7.46,"Fr. C. Rodrigues Institute Of Technology, Vashi",1,4,0,North Carolina State University,B,3,Reject
+159,312,149,163,3,91,9.05,"Sri Jayachamarajendra College Of Engineering, Mysore",1,2,0,Oregon State University,B,4,Reject
+160,317,153,164,3.5,93,6.88,"Thapar University, Punjab",2,0,0,University of Texas--Dallas,B,4,Admit
+161,318,154,164,4,108,8.01,Rajiv Gandhi Institute of Technology,1,0,0,University of Arizona,B,3,Reject
+162,326,161,165,3.5,112,7.92,"college of engineering, pune",2,0,0,Texas A&M University,B,3,Reject
+163,312,154,158,3,107,8.15,Bengal College of Engineering and Technology,1,2,0,University of Colorado--Boulder,A,2,Admit
+164,313,154,159,4,110,2.9,De La Salle University,1,0,0,"Rutgers, The State University of New Jersey--Newark",B,3,Admit
+165,309,149,160,3.5,104,7.92,BSAITM,1,2,0,University of Texas--Dallas,B,4,Admit
+166,298,143,155,3.5,79,7,Pimpri Chinchwad College Of Engineering,1,1,0,University of Maryland,A,1,Admit
+167,318,152,166,4,111,9.4,punjab engineering college,1,3,1,Indiana University Bloomington,B,3,Admit
+168,310,154,156,3.5,110,8.26,V.V.P. ENGINEERING COLLEGE,1,0,0,"Florida Institute of Technology (Melbourne, FL)",C,9,Admit
+169,318,149,169,4,98,8.43,"Indian Institute of Engineering Science and Technology, Shibpur",2,0,0,University of Minnesota--Twin Cities,A,2,Admit
+170,320,152,168,4,116,9.38,NIT Durgapur,3,0,0,University of Maryland,A,1,Admit
+171,314,150,164,3.5,102,8.43,"Indian Institute of Information Technology Design & Manufacturing, Kancheep",2,0,0,University of Texas--Dallas,B,4,Reject
+172,303,143,160,3.5,95,6.88,"Bharati Vidyapeeth College Of Engineering,PUNE",1,0,0,Michigan Technological University,C,6,Reject
+173,300,144,156,2.5,79,6.49,kJSIEIT,1,0,0,San Jose State University,C,10,Reject
+174,331,168,163,5,116,8.45,"Vivekanand Education Society's Institute of Technology, Mumbai",1,0,0,University of Minnesota--Twin Cities,A,2,Admit
+175,295,144,151,3,97,6,"Finolex Academy Of Management And Technology, Ratnagiri",1,0,0,New Jersey Institute of Technology,C,5,Admit
+176,321,154,167,4,114,8.7,andhra university,1,0,0,Virginia Tech University,A,2,Admit
+177,317,152,165,4,107,8,"Malaviya National Institute of Technology, Jaipur",1,0,0,Texas A&M University,B,3,Admit
+178,318,152,166,3.5,106,8.9,Indus university,1,0,0,Northeastern University Boston,A,2,Admit
+179,318,151,167,3.5,105,8.99,Vellore Institute of Technology,2,2,2,New York University,A,2,Reject
+180,310,147,163,3.5,98,7,"B.M.S. Institute of Technology, Bangalore",1,0,0,Arizona State University,B,3,Admit
+181,326,156,170,3,104,8.3,Pandit Deendayal Energy University,1,0,0,Rochester Institute of Technology,B,4,Admit
+182,313,148,165,3,91,6.5,Dharmsinh Desai University,1,0,0,San Jose State University,C,10,Admit
+183,308,150,158,3.5,94,8.06,Thakur College of Engineering and Technology,1,4,0,University of Texas--Dallas,B,4,Admit

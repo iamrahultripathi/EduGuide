@@ -1,0 +1,26 @@
+.prediction-page {
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 500px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:beige;
+  }
+  h2{
+    text-decoration: underline;
+  }
+  
+  .universities-list {
+    
+    padding-left: 0;
+  }
+  
+  .universities-list li {
+    margin-bottom: 6.5px;
+  }
+  
+  .university-number {
+    font-weight: bold;
+  }
+  
